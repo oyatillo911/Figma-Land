@@ -326,6 +326,15 @@
   .gap-50 {
     gap: calc(var(--spacing) * 50);
   }
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  .overflow-x-hidden {
+    overflow-x: hidden;
+  }
+  .overflow-y-hidden {
+    overflow-y: hidden;
+  }
   .rounded-\[5px\] {
     border-radius: 5px;
   }
